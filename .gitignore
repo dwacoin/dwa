@@ -1,0 +1,11 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.bak
+dwa*.jar
+
+dwa_db
+classes
+.idea/*
+/*.iml
+/conf/dwa.properties
